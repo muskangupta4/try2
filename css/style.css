@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    display:flex;
+    align-items: center;
+}
+#logo{
+    margin: 20px 35px;
+}
+#logo img{
+    margin: 5px 8px;
+    height: 56px;
+    color: black;
+    border-radius: 50px;
+
+}
+#navbar{
+    background-color: black;
+    z-index: -1;
+}
+#navbar ul{
+    display: flex;
+}
+#navbar ul li{
+    list-style: none;
+    font size: 1.5rem;
+}
+#navbar ul li a{
+    color: white;
+    display: block;
+    padding: 3px 22px;
+    border-radius: 20px;
+    text-decoration :none;
+}
+#navbar ul li a:hover{
+    color: black;
+    background-color: white;
+}
+div#demo {
+    position:relative;
+}
+
+#footer {
+    background-color: black;
+    padding: 3px 20px;
+    text-align: center;
+    opacity: 0.8;
+}
+#footer-list li {
+    list-style: none;
+    color: white;
+    align-items: center;
+    }
+#foot{
+    font-size: 25px;
+    font-weight: bold;
+}
+#footer ul li a{
+    color: white;
+    text-decoration: none;
+}
+#footer ul li a:hover{
+    color:black;
+    background-color: white;
+}
+#btn-wrapper{
+    color: white;
+
+}
+
+
+h1{
+    text-align: center;
+}
+
+.carousel-inner{
+    opacity: 0.8;
+}
+
+h2{
+    text-align:center;
+}
+.row img{
+    height:75%;
+    width:80%;
+    margin-left: 40px;
+}

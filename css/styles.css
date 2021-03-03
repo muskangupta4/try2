@@ -1,0 +1,41 @@
+.full{
+	background-color:#e6f4ff;
+}
+#food{
+	font-size: 25px;
+	margin: 50px 10px;
+}
+#journey{
+	display: flex;
+	margin:50px 10px; 
+}
+#journey p{
+	font-size: 30px;
+}
+
+#footer {
+    background-color: black;
+    padding: 3px 20px;
+    text-align: center;
+    opacity: 0.8;
+}
+#footer li {
+    list-style: none;
+    color: white;
+    align-items: center;
+    }
+#foot{
+    font-size: 25px;
+    font-weight: bold;
+}
+#footer ul a{
+    color: white;
+    text-decoration: none;
+}
+#footer ul a:hover{
+    color:black;
+    background-color: white;
+}
+#btn-wrapper{
+    color: white;
+}
